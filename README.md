@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NILAY JAIN </h1>
+<h1 align="center">Hi , 👋 I'm NILAY JAIN 👋 </h1>
 <h3 align="center">🚀 Aspiring Cybersecurity Professional | Ethical Hacking | SOC | Threat Hunting | CEH | TryHackMe</h3>
 
 ---
