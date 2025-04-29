@@ -22,17 +22,13 @@
 - 👩‍💻 Intern @ **Prodigy Infotech** – Cybersecurity  
 - 🛠️ Projects in progress:
   - 🔸 SIEM Setup & Alerting (Beginner)
-  - 🔸 Basic Web App Pentesting
-  - 🔸 Image Encryption Tool (Intermediate)
-  - 🔸 Blockchain Security Audit (Advanced)
-  - 🔸 Secure AI Deployment (Emerging Threat Analysis – 2025)
-
+  - 🔸 Basic Web App Pentesting 
 ---
 
 ### 🧠 Weekly Learning Challenge
 
 - ✅ Posting weekly updates on certifications, projects, and room completions  
-- 📅 Current Week: Week 10  
+- 📅 Current Week: Week 12  
 - 🔁 Balanced studies with CRT, internships , projects and personal branding  
 - 💬 Open to connect and collaborate on infosec projects  
 
@@ -42,13 +38,11 @@
 
 I’m actively learning and practicing cybersecurity on [TryHackMe](https://tryhackme.com/p/NilayJain).
 
-- 🔥 30-day streak maintained  
+- 🔥 50+ day streak maintained  
 - 🏅 7+ badges earned  
-- 🏁 32+ rooms completed (and growing)  
+- 🏁 51+ rooms completed (and growing)  
 - 📊 Global Rank: Top 10%  
 - 💥 Consistent learner with a growth mindset  
-
-[![TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=525378" style='border:none;'></iframe>)](https://tryhackme.com/p/NilayJain)
 
 ---
 
