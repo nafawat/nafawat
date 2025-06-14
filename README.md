@@ -28,7 +28,7 @@
 ### 🧠 Weekly Learning Challenge
 
 - ✅ Posting weekly updates on certifications, projects, and room completions  
-- 📅 Current Week: Week 12  
+- 📅 Current Week: Week 18  
 - 🔁 Balanced studies with CRT, internships , projects and personal branding  
 - 💬 Open to connect and collaborate on infosec projects  
 
