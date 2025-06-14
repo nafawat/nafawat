@@ -19,7 +19,7 @@
 ### 💼 Virtual Internships & Projects
 
 - 👩‍💻 Intern @ **Cyber Secured India** – Digital Forensics & Cybersecurity  
-- 👩‍💻 Intern @ **Prodigy Infotech** – Cybersecurity  
+- 👩‍💻 EX-Intern @ **Prodigy Infotech** – Cybersecurity  
 - 🛠️ Projects in progress:
   - 🔸 SIEM Setup & Alerting (Beginner)
   - 🔸 Basic Web App Pentesting 
