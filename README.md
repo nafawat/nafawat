@@ -39,9 +39,9 @@
 I’m actively learning and practicing cybersecurity on [TryHackMe](https://tryhackme.com/p/NilayJain).
 
 - 🔥 50+ day streak maintained  
-- 🏅 7+ badges earned  
+- 🏅 9+ badges earned  
 - 🏁 51+ rooms completed (and growing)  
-- 📊 Global Rank: Top 10%  
+- 📊 Global Rank: Top 8%  
 - 💥 Consistent learner with a growth mindset  
 
 ---
