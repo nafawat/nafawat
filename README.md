@@ -1,5 +1,5 @@
 <h1 align="center">Hi , 👋 I'm NILAY JAIN 👋 </h1>
-<h3 align="center">🚀 Aspiring Cybersecurity Professional | Ethical Hacking | SOC | Threat Hunting | CEH | TryHackMe</h3>
+<h3 align="center">🚀 Aspiring Cybersecurity Professional | Ethical Hacking | SOC | Threat Hunting |Incident response |</h3>
 
 ---
 
@@ -10,15 +10,18 @@
 - 🧠 Exploring areas like:
   - SOC Analysis
   - Threat Intelligence
+  - Ethical Hacking
+  - Incident response
+  - Vulnerability assesment
+  - Bug bounty
   - Digital Forensics
-- 📈 Continuous learner with weekly progress updates and learning streaks  
-- 🧩 Participating in multiple virtual internships & simulations to build hands-on experience
+ 📈 Continuous learner with weekly progress updates and learning streaks  
+ 🧩 Participating in multiple virtual internships & simulations to build hands-on experience
 
 ---
 
 ### 💼 Virtual Internships & Projects
 
-- 👩‍💻 Intern @ **Cyber Secured India** – Digital Forensics & Cybersecurity  
 - 👩‍💻 EX-Intern @ **Prodigy Infotech** – Cybersecurity  
 - 🛠️ Projects in progress:
   - 🔸 SIEM Setup & Alerting (Beginner)
@@ -38,9 +41,9 @@
 
 I’m actively learning and practicing cybersecurity on [TryHackMe](https://tryhackme.com/p/NilayJain).
 
-- 🔥 50+ day streak maintained  
+- 🔥 100+ day streak maintained  
 - 🏅 9+ badges earned  
-- 🏁 51+ rooms completed (and growing)  
+- 🏁 60+ rooms completed (and growing)  
 - 📊 Global Rank: Top 8%  
 - 💥 Consistent learner with a growth mindset  
 
