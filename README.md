@@ -31,6 +31,6 @@
 
 
 ### ⚡ Fun Fact
- I am a Human.
- I combine curiosity, discipline, and determination to break and build things securely.
+ -> I combine curiosity, discipline, and determination to break and build things securely.
+ -> I am a Human.
 
